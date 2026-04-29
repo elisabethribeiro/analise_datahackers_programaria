@@ -8,17 +8,9 @@ Análise exploratória dos dados da **Pesquisa Datahackers 2022**, com foco em i
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-## ⚙️ Como executar
+## ⚙️ Execução
 
-1. Clone o repositório  
-2. Instale as dependências:
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy
-```
-
-3. Abra o notebook em Jupyter ou Google Colab  
-4. Execute as células sequencialmente  
+O notebook pode ser executado diretamente no Google Colab, sem necessidade de instalação local.
 
 ## 📌 Sobre o projeto
 
